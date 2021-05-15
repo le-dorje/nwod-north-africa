@@ -1,0 +1,103 @@
+Name:       Oscagne     Concept:    Savage Gentleman    Path: Thyrsus
+Player:     Brenin      Virtue:     Charity             Order: Mysterium
+Chronicle:  Detroit     Vice:       Gluttony            Cabal:
+
+
+-Mental- (3)            -Physical- (5)              -Social- (4)
+Intelligence:       2   Strength:           2       Presence:       3 
+Wits:               2   Dexterity:          3       Manipulation:   2
+Resolve:            2   Stamina:            3       Composure:      3
+
+
+-Mental- (4)            -Physical- (11)             -Social- (7)
+Academics:          0   Athletics:          3       Animal Ken:     2
+Computer:           0   Brawl:              2       Empathy:        2
+Crafts:             0   Drive:              0       Express:        0
+Investigation*:     0   Firearms:           1       Intimidate:     0
+Medicine: Botany    2   Larcency:           0       Persuasion:     1
+Occult*: Healing    2   Stealth:            2       Socialize:      1
+Politics:           0   Surv.*: Wilderness  2       Street:         1
+Science:            0   Weaponry:           1       Subterfuge:     0
+
+*Rote skill specialties: +1 to rote from order that uses marked skills
+
+-Merits- 
+- High Speech: 1 (order membership)
+- Status: 1,  Mysterium, Acquistor.
+- Resources: 1
+
+-Flaws-
+
+Size:       5           Speed:  5/10        Defense:    2       
+Armor:      0           Init:   6           Health:     8       
+
+Willpower:  6           Wisdom: 6           Gnosis:     3   
+Ext Cast:   3 hrs       Mana:   7/12        Paradox:    2 dice      
+Mana/Turn:  3
+
+-Arcana-
+Ruling: Life, Spirit        Inferior: Mind 
+
+Death:      0           Fate:   1           Forces:     0
+Life:       3           Matter: 0           Mind:       0
+Prime:      0           Space:  0           Spirit:     2
+Time:       0
+
+-Rotes- (6 dots)
+Arcana      Lvl     Name                                        Dice Pool       Page #
+Fate        1       Flight of Birds (Wits, Occult, fate)        6               149
+Life        1       Listen...Soul's Echo (Wit, Animal, life)    7               181
+Life        2       ??? (Self Healing) (int, med,icine life)    8               183
+Life        2       Enhanced Skin (resolve, ath, life)          8               183
+
+Magical Tools:
+-  Obsidian dagger with copper wound hilt.
+-  Wood staff inlaid with Atlantian runes in amber and jet.
+-  Hand smoothed wooden chalice with copper rim.
+-  Obsidian disk with copper inlaid pentacle.
+-  Shallow, wide, obsidian bowl. 
+-  Smokey quartz key on copper chain.
+
+
+Paradox Marks:
+
+
+Enchanted Items:
+Type                Power               Dice Pool       Mana
+
+
+-Legacy-
+Neocologist (Tome of the Watchtowers, pg 155)
+
+Attainments:
+Barrier Breaking:  This Attainment functions as a combination of Spirit Tongue and Peer Across the Gauntlet, allowing 
+the Neocologist to know exactly what the state of the spiritual landscape around him is.  These mages effectively operate 
+on both sides of the Gauntlet at will.  They see spirits, and spirits see them.  This Attainment is always in effect and of 
+indefinite duration.  For followers of this Legacy, viewing events taking place in the Shadow Realm is no more difficult 
+than looking in the right direction.  Additionally, the mage also gains a particular awareness of the spirits of living beings. 
+He senses the health of a scraggly tree in an urban blight zone and the vitality of a wolf that's stalking him; he senses 
+anomalies or overlapping of spiritual "signatures" if there are two spirits in one body (as in the case of an embryo or other 
+parasites).
+
+
+Appearance: 
+Wears a sturdy, grey traveling suit.
+
+Spends:
+
+6 dots, gnosis 3
+1 dot, Mysterium Status 1 (Acquistor)
+
++5 xp: Wis 7 -> 6
+Resources 1 - 2 xp
+Entheogenic Synesthesia   2 exp
+
+Exp
+Current Available: 1
+Total Earned: 5
+
+
+NOTES----
+
+Nimbus: Physical ecstasy and vibrant colors to living things, spirits at the corner of your eye, a prolonged sense of dejavu.
+
