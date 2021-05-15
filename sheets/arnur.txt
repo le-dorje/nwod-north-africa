@@ -1,0 +1,87 @@
+Name: Arnur                 Concept:                     Auspice:  Rahu
+Player: boominator          Virtue: Faith                Tribe: Ghost Wolves
+Chronicle: North Africa     Vice: Wrath                  Lodge:
+
+-Mental-                    -Physical-                   -Social-
+Int: 2                      Str: 3                       Pres: 2
+Wit: 2                      Dex: 2                       Mani: 1
+Res: 3                      Sta: 3                       Comp: 3
+
+-Mental- (-3)               -Physical- (-1)             -Social- (-1)
+Academics:                  Athletics+: 1               Animal Ken: 2
+Computer: 1                 Brawl+: 3                   Empathy: 1
+Crafts:                     Drive: 1                    Expression: 
+Investigation: 1            Firearms: 1                 Intimidate: 1       
+Medicine:                   Larcency: 1                 Persuasion:
+Occult: 1                   Stealth: 1                  Socialize: 1
+Politics:                   Survival: 2                 Streetwise: 1
+Science:                    Weaponry: 1                 Subterfuge: 1
+
++Skill specialties: Athletics-Lift, Athletics-Footchase, Brawl-Claws, Brawl-Grapple
+
+-Merits-
+Danger Sense: 2
+Multi-lingual: 1
+Strong Back: 1
+Direction Sense: 1
+Fleet of Foot: 1
+Brawling Dodge: 1
+
+-Languages-
+Arabic (N), Icelandic (C), English (C)
+
+-Flaws-
+
+-Advantages-
+Size:  5                    Speed: 10                    Defense: 2
+Armor: 0                    Init:  5        
+
+Health: 8                   Willpower: 6/6               Harmony: 7
+(+2 Dalu, +4 Gauru, 
++3 Urshul to health)
+
+Primal Urge:  1             Essence: 6/7                 Essence/Turn: 1
+
+-Renown-
+Purity: 1                   Glory: 1                     Honor: 0
+Wisdom: 0                   Cunning: 0
+
+-Gifts-
+Partial Change (1): Stamina + Survival + Primal Urge, transform only some features, pg 128
+Clarity (1): 1 essence, add +5 to initiative, pg 116
+Warning Growl (1): 1 wp, Presence + Intimidation + Glory vs. Composure + Primal Urge,
+    +2 defense against target, pg 109
+
+-Rites-
+
+-Gear-
+Fetishes:
+Type                        Power                        Dice Pool       
+
+Items:
+Large Hunting Knife (Dam: 2L, Size: 1)
+Pistol, light (Dam: 2L, Range: 20/40/80, Clip: 17+1, Dur: 2, Size: 1)
+Kevlar Vest (Rating: 1/2, Dur: 1, Def: 0, Speed: 0): Downgrades fire arms L to B
+
+Box of 50 ammo, combat belt with d clips, canteen, backpack, fire starter 
+
+Other:
+Dalu                 Gauru                   Urshul                Urhan
+Strength +1          Strength +3             Strength +2           Dexterity +2
+Stamina +1           Dexterity +1            Dexterity +2          Stamina +1
+Manipulation -1      Stamina +2              Stamina +2            Size -1
+Size +1              Size +2                 Manipulation -3       Initiative +2
+Speed +1             Initiative +1           Size +1               Speed +5
+Perception +2        Speed +4                Initiative +2         Perception +4
+                     Perception +3           Speed +7
+                                             Perception +3
+
+* Induces Lunacy    * Rage invoked,         * Lunacy at +2 wp,   * +2 lethal bite
+  at +4 wp            full lunacy,            +2 lethal bite
+                      ignore wounds,
+                      no unconscious
+                      rolls, -2 resist
+                      kuruth, +2 lethal
+                      bite, +1 lethal
+                      claw, fail mental
+                      & social rolls.
