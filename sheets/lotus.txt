@@ -1,0 +1,204 @@
+Name: Lotus Mournir         Concept: "Sand" dancer       Seeming: Fairest 
+Player: Kat                 Virtue: Charity              Kith: Dancer/Sandharrowed
+Chronicle:                  Vice: Pride                  Court: Spring
+
+-Mental- (4)                -Physical- (3)               -Social- (5)
+Int: 2                      Str: 1                       Pres: 3
+Wit: 3                      Dex: 3                       Mani: 2
+Res: 2                      Sta: 2                       Comp: 3
+
+-Mental- (4)               -Physical- (7)               -Social- (11)
+Academics: 1                Athletics: 3                 Animal Ken:
+Computer:                   Brawl:                       Empathy: 1
+Crafts:                     Drive: 1                     Expression+: 3
+Investigation:              Firearms+: 1                 Intimidate:        
+Medicine: 1                 Larcency:                    Persuasion+: 2
+Occult: 1                   Stealth*: 2                  Socialize: 2
+Politics: 1                 Survival: 1                  Streetwise: 1
+Science:                    Weaponry+: 2                 Subterfuge: 2
+
+*Seeming Free Dot
++Skill specialties: Weaponry: Daggers; Expression: (Belly)Dancing; Persuasion: Seduction
+
+-Merits-
+Danger Sense: 2
+Resources: 1
+Striking Looks: 2
+Language: 1 (English)
+Dual Kith: 3
+
+-Languages-
+English (F), (Egyptian) Arabic (N)
+
+-Flaws-
+
+Size: 5                     Speed: 9                     Defense: 3
+Armor: 0                    Init: 6        
+
+Health: 7                   Willpower: 5/5               Wyrd: 1
+
+Clarity: 7                   
+Glamour: 8/10               Glamour/Turn: 1
+
+-Contracts-
+
+         
+Elements: 2                 Mirror:                      Eternal Spring:        
+Fleeting Spring: 1          Smoke:                       Goblin:             
+Vainglory: 2                Separation:                  Dream: 
+
+
+-Seeming Blessing-
+These changelings really are the Fairest of Them All, and their magic only emphasizes this. The player can spend Glamour to improve dice pools that include Presence, Manipulation and Persuasion. Each point spent increases one dice pool by one point.
+A changeling counted among the Fairest also suffers no untrained penalty for using Social skills in which she has no dots.
+
+-Seeming Curse-
+The Fairest, similar to the creatures who stole them, can be callous and unfeeling, vicious and prone to toy with others, even people who love them. Their inner balance suffers for this. One of the Fairest suffers a –1 die penalty on dice pools to avoid losing Clarity (for example, the player of a Fairest with Clarity 5 who kills another changeling rolls two dice to avoid losing Clarity, rather than three).
+
+-Kith: Dancer-
+Those among the Fairest blessed of particular agility and grace, for whom motion is itself beauty and art. Whether entertainer, courtesan, artist or murderer, the Dancer is happiest when moving to the sound of her inner rhythm. The Dancer’s blessing is Fae Grace: she benefits from the 9 again rule on any Expression or Socialize rolls involving agility (such as juggling or dancing in a performance or social setting), and always adds one to her Dodge total when dodging attacks.
+
+-Kith: Sandharrowed-
+The howling deserts of Faerie produce their own children. The Sandharrowed are embodied with the merciless grace and power of the shifting sands. Those who escape the blasted wastes of Arcadia can make homes anywhere, though they seem happiest in warm cities surrounded by the desert.
+The Sandharrowed benefit from the blessing of the Enveloping Sands: they gain a +2 bonus to all rolls made to grapple an opponent, or to escape from a grapple.
+
+------------
+
+-Danger Sense- 
+You gain a +2 modifier on reflexive Wits + Composure rolls for your character to detect an impending ambush. This kind of roll is typically made prior to the first turn of a surprise attack.
+Your character has a well-developed survival instinct that warns him of impending danger. Perhaps he's adept at reading subtle clues in his environment or he possesses an uncanny "sixth sense" when it comes to avoiding trouble.
+
+------------
+-Elements-
+
+Cloak of the Elements (•)
+This clause protects the Elemental from the natural manifestations of any single element. The changeling be comes comfortable in weather associated with this element and is protected against damage by its more extreme manifestations. A character protected from fire has no trouble walking through Death Valley at noon in Summer, someone protected from water remains warm and dry during the worst thunderstorm, someone protected from wood can walk through thorny underbrush unharmed and at a normal walking pace and so on.
+In addition, the Cloak of the Elements protects the changeling against direct damage from the element in question. Against direct damage caused by the element in question, this clause subtracts one point of damage per point of the changeling’s Wyrd. Cloak of the Elements (air) would protect against damage suffered from being caught in a tropical storm or tornado, while an earth-cloak would protect against thrown rocks or falling to earth, a glass-cloak would protect against cuts made by broken glass and so on. However, the clause cannot protect against damage from objects created or modified with the intention of harming someone. The glass-cloak could shield its user against incidental damage from shards of fallen glass, but not against a beer bottle that was broken for the purpose of a bar brawl. A metal-cloak might protect against a fireplace poker, but not a sword or even a pipe that was detached for the purpose of serving as a weapon.
+
+The Cloak of the Elements lasts for a scene.
+Cost: 2 Glamour
+Dice Pool: None
+Action: Instant
+Catch: The changeling bears some symbolic representation of the element in question, such as a souvenir T-shirt depicting a mountain for earth or a small mirror for glass.
+
+Armor of the Elements’ Fury (••)
+The character clothes himself in a frenzied and damaging manifestation of his chosen element, providing limited armor and damaging anyone who touches him. This Contract sheathes the character in fire, unnaturally cold ice, razor-sharp metal spikes, a crackling aura of electricity or something similarly dangerous. The character can control the extent of this manifestation, limiting it to her hands so she can attack others, start fires or cool drinks
+by touch, or she can completely cover herself with the element. This element does not harm the character or anything she is wearing.
+
+Cost: 2 Glamour
+Dice Pool: Dexterity + Wyrd
+Action: Instant
+
+Catch: The changeling touches the element when he invokes the clause. For ubiquitous elements such as air, the element must be fairly vigorous, that is, a strong breeze or the wind from a large fan.
+
+Roll Results
+Dramatic Failure: The element briefly harms the character, causing dice of lethal damage  equal to the half the character’s Wyrd, which can be reduced by armor. 
+
+Failure: The character fails to call up the element. 
+
+Success: The character surrounds herself with a damaging manifestation of the element. The character does half of her Wyrd (round up) lethal damage by touch, and anyone or any object that strikes her suffers this same damage. The changeling cannot combine this attack with a punch or any other conventional brawling or melee attack. Instead, the character must use the element to attack the target. The dice pool for this attack is Dexterity + Brawling + half of
+the character’s Wyrd.
+This elemental sheath also provides the character with one point of armor useful against all attacks, including attacks by the summoned element. The character can cause the element to cover only a small portion of the character, such as one hand and forearm or her head, but attempting to reduce its size further causes the element to vanish and ends the Contract. Otherwise, the element surrounds the character for the next scene.
+
+Exceptional Success: The character can maintain this effect until the sun next rises or sets (whichever comes first) and can summon or dismiss the element during this time without ending the Contract.
+Suggested Modifiers
+Modifier Situation
++1 A large amount of the element is present when the Contract is invoked. For ubiquitous elements such as air, the element must be particularly vigorous, for example, a gale wind.
+–1 None of the element is present when the Contract is invoked.
+
+-----------------------
+
+-Fleeting Spring-
+
+Cupid’s Eye (•)
+This clause takes the first step in fulfilling a person’s desires — or teasing him and stringing him along — by revealing what those desires are.
+
+Prerequisites: None
+Cost: 1 Glamour
+Dice Pool: Wits + Wyrd vs. subject’s Composure + Wyrd
+Action: Contested
+
+Catch: The character has kissed the subject within the past 24 hours, or the subject’s object of desire is the character.
+
+Roll Results
+
+Dramatic Failure: The changeling receives false impressions, becoming absolutely sure that the subject’s desire is something it is not.
+
+Failure: The character cannot discern the subject’s desires.
+
+Success: The changeling learns one of the subject’s desires. See the suggested modifiers list that follows for specific depths to which this power can plumb.
+
+Exceptional Success: Exceptional success at Cupid’s Eye provides the character with two desires of the targeted level, or the knowledge that there is only one desire at that level.
+
+Suggested Modifiers
+Modifier Situation
++1 The character has a pledge with the subject. — The character discerns a desire currently in the forefront of the subject’s mind.
+–1 The character learns a desire not currently concerning the subject.
+–1 The character learns a specific kind of desire (sexual, employment, etc.).
+–2 The character discovers a desire the subject recognizes but generally keeps hidden.
+–3 The character finds a desire the subject hides even from himself.
+
+-------------------------
+
+-Vainglory-
+
+Mask of Superiority (•)
+The changeling convinces a single subject that she is his professional superior or someone of superior social status. This clause cannot compel anyone into obedience, only deceive him.
+
+Cost: 2 Glamour
+Dice Pool: Wyrd+ Intimidation – Resolve
+Action: Instant
+
+Catch: The changeling pretends to be a socialite or similar celebrity whose fame comes from high standing or good looks alone.
+
+Roll Results
+
+Dramatic Failure: The subject takes extra offense to the changeling’s obvious lies, perhaps viewing her as dangerously deluded.
+
+Failure: The illusion fails. The subject sees the changeling as she is.
+
+Success: The changeling can either convince the subject that she is a high-ranking person in the subject’s workplace, or simply that she is a celebrity, someone important and worthy of notice and respect. The changeling doesn’t control who the target sees, only the general “someone in his workplace” or “a celebrity.” If the subject is expecting someone important
+to come and talk with him, he assumes the changeling is this person. This Contract does not force any particular action on the subject, but most will behave deferentially. Along with this
+effect, every success rolled adds one bonus die to all Social rolls to impress, intimidate or command the target. This effect lasts for one scene or until someone else convinces the target that the changeling is not who she claims to be.
+
+Exceptional Success: In addition to the above effects, the target is firmly convinced of the changeling’s importance and will argue with anyone who claims otherwise. In his certainty, the target gains +1 die to all rolls to convince others of the changeling’s importance.
+
+Suggested Modifiers
+Modifier Situation
++1 The changeling is dressed appropriately for the position she claims.
+–1 The changeling is dressed inappropriately for the position she claims.
+
+Songs of Distant Arcadia (••)
+Some Gentry keep slaves to provide them with more refined forms of entertainment. This clause allows changelings to become consummate performers, preternaturally skilled storytellers or inhumanly eloquent speakers.
+
+Cost: 2 Glamour
+Dice Pool: Presence + Expression
+Action: Instant
+
+Catch: The changeling is giving a performance in front of a wealthy and powerful audience.
+
+Roll Results
+
+Dramatic Failure: The character’s confidence in her ability is utterly misplaced. She receives a –2 dice penalty to all Expression or Persuasion rolls for the next scene, but believes she is giving an excellent performance.
+
+Failure: The changeling gains no bonus to speeches or performances.
+
+Success: The character gains a number of bonus dice equal to her Wyrd to all Expression and Persuasion rolls for the next scene.
+
+Exceptional Success: The changeling delivers an inhumanly excellent performance, adding a number of automatic successes equal to her Wyrd to her next Expression and Persuasion roll, as well as adding the usual bonus dice to all other Expression and Persuasion rolls for the next scene.
+
+Suggested Modifiers
+Modifier Situation
++1 to +2 The changeling is wearing an unusually fine costume, or using especially well-made
+instruments or other accoutrements.
+–1 to –2 The changeling is dressed in an unassuming fashion without special props or accoutrements.
+---------------------------
+
+
+Spends:
+----------
+
+Total: 0 XP
+Remaining: 0 XP
+
+
